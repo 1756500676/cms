@@ -22,5 +22,8 @@ public class Demo03 {
 		
 		System.out.println("创建demo03测试合并");
 		
+		
+		System.out.println("demo03测试合并第二次改变测试冲突");
+		
 	}
 }
