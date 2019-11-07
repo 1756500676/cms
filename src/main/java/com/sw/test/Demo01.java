@@ -21,7 +21,8 @@ public class Demo01 {
 	public static void main(String[] args) {
 		
 		System.out.println("Hello Word!~");
-		
+//		用于测试
+		System.out.println("用于测试");
 		
 	}
 }
