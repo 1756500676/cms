@@ -26,5 +26,10 @@ public class Demo03 {
 		
 		System.out.println("demo03测试合并第二次改变测试冲突");
 		
+		System.out.println("测试stash");
+		
+		System.out.println("不清名字的测试");
+		
+		System.out.println("测试恢复提交");
 	}
 }
